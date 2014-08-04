@@ -1,0 +1,8 @@
+==============================
+Stock D505 20a KK 4.4.2 Kernel
+==============================
+
+All compile errors fixed.
+
+Compiled using toolchain 4.7
+git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
